@@ -1,0 +1,16 @@
+{
+  "plugin_type": "extractors",
+  "name": "tap-five9",
+  "namespace": "tap_five9",
+  "variant": "pathlight",
+  "label": "Five9",
+  "docs": "https://www.matatika.com/data-details/tap-five9/",
+  "repo": "https://github.com/Pathlight/tap-five9",
+  "pip_url": "git+https://github.com/Pathlight/tap-five9.git",
+  "description": "Five9 is a cloud-based contact center software provider.\n\nFive9 provides a cloud-based contact center software that enables businesses to manage customer interactions across multiple channels, including voice, email, chat, and social media. The platform offers features such as automatic call distribution, interactive voice response, predictive dialer, and workforce management tools to help businesses improve customer engagement and streamline their operations. With Five9, businesses can also access real-time analytics and reporting to gain insights into their customer interactions and agent performance.",
+  "logo_url": "/assets/logos/extractors/five9.png",
+  "capabilities": [
+    "catalog",
+    "discover"
+  ]
+}
